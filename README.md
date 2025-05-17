@@ -1,4 +1,4 @@
-# Turkish Hate Speech Classification, Explanation & Rewriting 🇹🇷
+# ReTweetify: Turkish Hate Speech Classification, Explanation & Rewriting 🇹🇷
 
 This project leverages **Multilingual BERT**, **LoRA fine-tuning**, and **SHAP explainability** to **classify, interpret, and rewrite Turkish tweets** that contain hate speech. 
 It combines modern NLP tools with transformers and parameter-efficient tuning to handle sensitive content in Turkish social media posts.
